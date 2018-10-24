@@ -4,7 +4,7 @@
 
 **1. Please ensure you have downloaded XSV [here](https://github.com/BurntSushi/xsv).**
 
-For **Mac** users with homebrew installed, the easiest way is `brew install xsv`.
+For **Mac** users with homebrew installed, the easiest way is to use `brew install xsv` via the terminal.
 
 For **Windows** users, please download and unzip the binary files into a folder it is easy to navigate to during the class
 
