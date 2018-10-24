@@ -8,7 +8,7 @@ For **Mac** users with homebrew installed, the easiest way is `brew install xsv`
 
 For **Windows** users, please download and unzip the binary files into a folder it is easy to navigate to during the class
 
-**2. Please download the two sample datasets [pscs-skup.csv](https://raw.githubusercontent.com/leilahaddou/leilahaddou.github.io/master/pscs-skup.csv) and `CCOD-skup.csv`**
+**2. Please download the two sample datasets `pscs-skup.csv` and `CCOD-skup.csv`**
 
 ## Key xsv commands
 
