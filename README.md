@@ -20,7 +20,7 @@ For **Windows** users, please download and unzip the binary files into a folder 
 
 `xsv join company_number norway-pscs.csv Company Registration No. (1)' CCOD-skup.csv > norway-land.csv` joins the data together via the company number which is common to both files and produces a csv file of the results. 
 
-[Link to session presentation](https://docs.google.com/presentation/d/1MYxH9zVaIJADZdjlQUmp5W1Tt8FErCYTVNTpqxEFY08)if you would like to review it after the class.
+[Link to session presentation](https://docs.google.com/presentation/d/1MYxH9zVaIJADZdjlQUmp5W1Tt8FErCYTVNTpqxEFY08) if you would like to review it after the class.
 
 # Stay in touch!
 
