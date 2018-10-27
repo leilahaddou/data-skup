@@ -22,7 +22,7 @@ For **Windows** users, please download and unzip the binary files into a folder 
 
 ## After the class!
 
-[Link to session presentation](https://docs.google.com/presentation/d/1MYxH9zVaIJADZdjlQUmp5W1Tt8FErCYTVNTpqxEFY08) if you would like to review it after the class.
+[Link to session presentation](https://docs.google.com/presentation/d/1MYxH9zVaIJADZdjlQUmp5W1Tt8FErCYTVNTpqxEFY08/edit?usp=sharing) if you would like to review it after the class.
 
 The full PSC register can be downloaded here: [http://download.companieshouse.gov.uk/en_pscdata.html](http://download.companieshouse.gov.uk/en_pscdata.html)
 
