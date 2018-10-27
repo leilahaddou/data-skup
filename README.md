@@ -8,7 +8,7 @@ For **Mac** users with homebrew installed, the easiest way is to use `brew insta
 
 For **Windows** users, please download and unzip the binary files into a folder it is easy to navigate to during the class
 
-**2. Please click the green'Clone or Download' button to download the datasets into a folder you can navigate to during the class. We will be using the sample datasets `pscs-skup.csv` and `CCOD-skup.csv`**
+**2. Please click the green 'Clone or Download' button to download the datasets into a folder you can navigate to during the class. We will be using the sample datasets `pscs-skup.csv` and `CCOD-skup.csv`**
 
 ## Key xsv commands
 
