@@ -20,7 +20,13 @@ For **Windows** users, please download and unzip the binary files into a folder 
 
 `xsv join company_number norway-pscs.csv Company Registration No. (1)' CCOD-skup.csv > norway-land.csv` joins the data together via the company number which is common to both files and produces a csv file of the results. 
 
+## After the class!
+
 [Link to session presentation](https://docs.google.com/presentation/d/1MYxH9zVaIJADZdjlQUmp5W1Tt8FErCYTVNTpqxEFY08) if you would like to review it after the class.
+
+The full PSC register can be downloaded here: [http://download.companieshouse.gov.uk/en_pscdata.html](http://download.companieshouse.gov.uk/en_pscdata.html)
+
+To gain access to the land registry data for sites owned by overseas and UK companies, you can access both via this article: [https://www.gov.uk/government/news/hm-land-registry-makes-commercial-ownership-data-free](https://www.gov.uk/government/news/hm-land-registry-makes-commercial-ownership-data-free)
 
 # Stay in touch!
 
